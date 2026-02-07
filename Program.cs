@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Lab_01_var4
-{
+{   // Объявление класса
     internal class Program
     {
         static void Main(string[] args)
